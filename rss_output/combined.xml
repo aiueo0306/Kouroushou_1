@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 24 Sep 2025 04:11:14 +0000</lastBuildDate><item><title>【社会保障審議会（介護給付費分科会）】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 24 Sep 2025 05:09:48 +0000</lastBuildDate><item><title>【社会保障審議会（介護給付費分科会）】回数
 開催日
 議題等
 議事録／議事要旨
 資料等
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html?rss=1758687066</link><description>回数
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html?rss=1758690580</link><description>回数
 開催日
 議題等
 議事録／議事要旨
@@ -300,7 +300,7 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html?rss=1758687070</link><description>回数
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html?rss=1758690584</link><description>回数
 開催日
 議題等
 議事録／議事要旨
@@ -576,12 +576,51 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html?rss=1758687068</link><description>回数
+開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html?rss=1758690582</link><description>回数
 開催日
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:af8ab4bda92465ee742899c5852ecc9c889708fa</guid></item><item><title>【社会保障審議会（医療保険部会）】第197回
+開催案内</description><guid isPermaLink="false">urn:newsitem:af8ab4bda92465ee742899c5852ecc9c889708fa</guid></item><item><title>【社会保障審議会（医療保険部会）】第198回
+
+
+2025年9月26日（令和7年9月26日）
+
+医療保険制度改革について
+令和８年度診療報酬改定の基本方針について
+高額療養費制度について
+
+－
+－
+
+開催案内NEW
+9月22日</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第198回
+
+
+2025年9月26日（令和7年9月26日）
+
+医療保険制度改革について
+令和８年度診療報酬改定の基本方針について
+高額療養費制度について
+
+－
+－
+
+開催案内NEW
+9月22日</description><guid isPermaLink="false">第198回
+
+
+2025年9月26日（令和7年9月26日）
+
+医療保険制度改革について
+令和８年度診療報酬改定の基本方針について
+高額療養費制度について
+
+－
+－
+
+開催案内NEW
+9月22日#20250926</guid><pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（医療保険部会）】第197回
 
 
 2025年9月18日（令和7年9月18日）
@@ -887,50 +926,12 @@
 
 
 
-開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_47571.html#20241219</guid><pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（医療保険部会）】第189回
-
-
-2024年12月12日（令和6年12月12日）
-
-	１．被用者保険の適用拡大及びいわゆる「年収の壁」への対応について
-	２．医療保険制度改革について
-　    ３．医療ＤＸの推進等について
-
-
-
-議事録
-
-
-
-資料等
-
-
-
-開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第189回
-
-
-2024年12月12日（令和6年12月12日）
-
-	１．被用者保険の適用拡大及びいわゆる「年収の壁」への対応について
-	２．医療保険制度改革について
-　    ３．医療ＤＸの推進等について
-
-
-
-議事録
-
-
-
-資料等
-
-
-
-開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_46880.html#20241212</guid><pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】回数
+開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_47571.html#20241219</guid><pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】回数
 開催日
 議題等
 議事録／議事要旨
 資料等
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html?rss=1758687074</link><description>回数
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html?rss=1758690588</link><description>回数
 開催日
 議題等
 議事録／議事要旨

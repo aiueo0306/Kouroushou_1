@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 28 Dec 2025 23:09:35 +0000</lastBuildDate><item><title>【社会保障審議会（医療保険部会）】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 29 Dec 2025 00:53:57 +0000</lastBuildDate><item><title>【社会保障審議会（医療保険部会）】回数
 開催日
 議題等
 議事録／議事要旨
@@ -33,41 +33,7 @@
 
 
 
-－</description><guid isPermaLink="false">urn:newsitem:75d3cc342000867bfa0e211b59ca4589ca995d74</guid><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（医療保険部会）】【2025-12-25】第209回
-
-
-2025年12月25日（令和7年12月25日）
-
-	医療保険制度改革について
-
-
-－
-
-資料等NEW
-12月25日
-
-
-
-
-開催案内NEW
-12月23日</title><link>https://www.mhlw.go.jp/stf/newpage_67720.html</link><description>第209回
-
-
-2025年12月25日（令和7年12月25日）
-
-	医療保険制度改革について
-
-
-－
-
-資料等NEW
-12月25日
-
-
-
-
-開催案内NEW
-12月23日</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_67720.html#20251225</guid><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】回数
+－</description><guid isPermaLink="false">urn:newsitem:75d3cc342000867bfa0e211b59ca4589ca995d74</guid><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】回数
 開催日
 議題等
 議事録／議事要旨
@@ -77,57 +43,7 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:e1240e25bf5bccdfa450d2736681801ee719b8d2</guid></item><item><title>【社会保障審議会（介護保険部会）】【2025-12-25】－
-
-
-2025年12月25日（令和7年12月25日）
-介護保険制度の見直しに関する意見
-－
-
-意見
-
-
-－</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>－
-
-
-2025年12月25日（令和7年12月25日）
-介護保険制度の見直しに関する意見
-－
-
-意見
-
-
-－</description><guid isPermaLink="false">urn:newsitem:c746683ca8ab9d606c61824b1dcbbde098887c62</guid><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】【2025-12-25】第133回
-
-
-2025年12月25日（令和7年12月25日）
-
-	とりまとめに向けた議論
-	その他
-
-
-－
-
-資料
-
-
-
-開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_67624.html</link><description>第133回
-
-
-2025年12月25日（令和7年12月25日）
-
-	とりまとめに向けた議論
-	その他
-
-
-－
-
-資料
-
-
-
-開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_67624.html#20251225</guid><pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護給付費分科会）】回数
+開催案内</description><guid isPermaLink="false">urn:newsitem:e1240e25bf5bccdfa450d2736681801ee719b8d2</guid></item><item><title>【社会保障審議会（介護給付費分科会）】回数
 開催日
 議題等
 議事録／議事要旨

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 15 Jan 2026 04:39:27 +0000</lastBuildDate><item><title>【社会保障審議会（医療保険部会）】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 15 Jan 2026 05:17:38 +0000</lastBuildDate><item><title>【社会保障審議会（医療保険部会）】回数
 開催日
 議題等
 議事録／議事要旨
@@ -29,7 +29,27 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:9f290209f3af4fc0d03a5be4050de9242cbf1d1e</guid></item><item><title>【社会保障審議会(医療部会)】回数
+開催案内</description><guid isPermaLink="false">urn:newsitem:9f290209f3af4fc0d03a5be4050de9242cbf1d1e</guid></item><item><title>【社会保障審議会（介護給付費分科会）】【2026-01-16】第253回
+
+
+2026年1月16日（令和8年1月16日）
+１． 令和８年度介護報酬改定に向けて（介護報酬改定案について）
+２． 令和６年度介護報酬改定の効果検証及び調査研究に係る調査（令和８年度調査）の進め方及び実施内容について
+－
+－
+
+開催案内NEW
+1月15日</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第253回
+
+
+2026年1月16日（令和8年1月16日）
+１． 令和８年度介護報酬改定に向けて（介護報酬改定案について）
+２． 令和６年度介護報酬改定の効果検証及び調査研究に係る調査（令和８年度調査）の進め方及び実施内容について
+－
+－
+
+開催案内NEW
+1月15日</description><guid isPermaLink="false">urn:newsitem:da5047eecb779c294911e0cfd41266ba67bca802</guid><pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】回数
 開催日
 議題等
 議事録／議事要旨

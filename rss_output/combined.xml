@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 22 Jan 2026 23:11:08 +0000</lastBuildDate><item><title>【社会保障審議会（医療保険部会）】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 23 Jan 2026 00:51:43 +0000</lastBuildDate><item><title>【社会保障審議会（医療保険部会）】回数
 開催日
 議題等
 議事録／議事要旨
@@ -59,38 +59,4 @@
 －
 －
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:21e4ae61a2054c18ed8dbb37d27aef03bae60725</guid><pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】【2026-01-19】第123回
-
-
-2026年1月19日（令和8年1月19日）
-○医療法等の一部を改正する法律に基づく改正事項について
-（１）改正医療法による総合確保法第７条の２第２項の規定について
-（２）重点医師偏在対策支援区域について
-（３）外来医師過多区域について
-（４）医師少数区域等の勤務経験を求める管理者要件について
-○医療事故調査制度等の医療安全に係る検討会報告書について
-○救命救急センターの充実段階評価の見直しについて
-－
-
-資料
-
-
-
-開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_68614.html</link><description>第123回
-
-
-2026年1月19日（令和8年1月19日）
-○医療法等の一部を改正する法律に基づく改正事項について
-（１）改正医療法による総合確保法第７条の２第２項の規定について
-（２）重点医師偏在対策支援区域について
-（３）外来医師過多区域について
-（４）医師少数区域等の勤務経験を求める管理者要件について
-○医療事故調査制度等の医療安全に係る検討会報告書について
-○救命救急センターの充実段階評価の見直しについて
-－
-
-資料
-
-
-
-開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_68614.html#20260119</guid><pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate></item></channel></rss>
+開催案内</description><guid isPermaLink="false">urn:newsitem:21e4ae61a2054c18ed8dbb37d27aef03bae60725</guid><pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate></item></channel></rss>

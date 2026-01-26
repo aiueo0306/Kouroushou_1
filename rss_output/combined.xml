@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 26 Jan 2026 00:55:51 +0000</lastBuildDate><item><title>【社会保障審議会（医療保険部会）】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 26 Jan 2026 03:07:28 +0000</lastBuildDate><item><title>【社会保障審議会（医療保険部会）】回数
 開催日
 議題等
 議事録／議事要旨
@@ -48,9 +48,12 @@
 〇精神医療に関する地域医療構想の今後の検討体制について
 
 －
-－
 
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第124回
+資料
+
+
+
+開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_68878.html</link><description>第124回
 
 
 2026年1月26日（令和8年1月26日）
@@ -59,6 +62,9 @@
 〇精神医療に関する地域医療構想の今後の検討体制について
 
 －
-－
 
-開催案内</description><guid isPermaLink="false">urn:newsitem:9dd9c73d1b7b549b4d33dc1886cfe031ba441111</guid><pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate></item></channel></rss>
+資料
+
+
+
+開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_68878.html#20260126</guid><pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate></item></channel></rss>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 21 Feb 2026 23:13:35 +0000</lastBuildDate><item><title>【社会保障審議会（医療保険部会）】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 22 Feb 2026 01:02:19 +0000</lastBuildDate><item><title>【社会保障審議会（医療保険部会）】回数
 開催日
 議題等
 議事録／議事要旨
@@ -29,37 +29,7 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:9f290209f3af4fc0d03a5be4050de9242cbf1d1e</guid></item><item><title>【社会保障審議会（介護給付費分科会）】【2026-02-18】第32回
-
-
-2026年2月18日（令和8年2月18日）
-介護報酬改定検証・研究委員会
-１．令和６年度介護報酬改定の効果検証及び調査研究に係る調査（令和７年度調査）の結果について
-－
-
-資料NEW
-2月18日
-
-
-
-
-開催案内NEW
-2月17日</title><link>https://www.mhlw.go.jp/stf/newpage_65392.html</link><description>第32回
-
-
-2026年2月18日（令和8年2月18日）
-介護報酬改定検証・研究委員会
-１．令和６年度介護報酬改定の効果検証及び調査研究に係る調査（令和７年度調査）の結果について
-－
-
-資料NEW
-2月18日
-
-
-
-
-開催案内NEW
-2月17日</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_65392.html#20260218</guid><pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】回数
+開催案内</description><guid isPermaLink="false">urn:newsitem:9f290209f3af4fc0d03a5be4050de9242cbf1d1e</guid></item><item><title>【社会保障審議会(医療部会)】回数
 開催日
 議題等
 議事録／議事要旨

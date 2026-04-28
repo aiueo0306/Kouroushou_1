@@ -1,47 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 28 Apr 2026 08:01:09 +0000</lastBuildDate><item><title>【社会保障審議会（介護保険部会）】回数
-開催日
-議題等
-議事録／議事要旨
-資料等
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>回数
-開催日
-議題等
-議事録／議事要旨
-資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:e1240e25bf5bccdfa450d2736681801ee719b8d2</guid></item><item><title>【社会保障審議会(医療部会)】回数
-開催日
-議題等
-議事録／議事要旨
-資料等
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>回数
-開催日
-議題等
-議事録／議事要旨
-資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:937c7e1eb369bc0e79d7690f08fdfdec93526df3</guid></item><item><title>【社会保障審議会(医療部会)】【2026-04-28】第127回
-
-
-2026年4月28日（令和8年4月28日）
-〇医療関係職種の安定的な養成・確保に関する検討会について（報告）
-－
-
-資料
-
-
-
-開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_72925.html</link><description>第127回
-
-
-2026年4月28日（令和8年4月28日）
-〇医療関係職種の安定的な養成・確保に関する検討会について（報告）
-－
-
-資料
-
-
-
-開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_72925.html#20260428</guid><pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（医療保険部会）】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 28 Apr 2026 10:51:08 +0000</lastBuildDate><item><title>【社会保障審議会（医療保険部会）】回数
 開催日
 議題等
 議事録／議事要旨
@@ -99,4 +57,46 @@
 
 
 開催案内NEW
-4月24日</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_72487.html#20260427</guid><pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate></item></channel></rss>
+4月24日</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_72487.html#20260427</guid><pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】回数
+開催日
+議題等
+議事録／議事要旨
+資料等
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>回数
+開催日
+議題等
+議事録／議事要旨
+資料等
+開催案内</description><guid isPermaLink="false">urn:newsitem:937c7e1eb369bc0e79d7690f08fdfdec93526df3</guid></item><item><title>【社会保障審議会(医療部会)】【2026-04-28】第127回
+
+
+2026年4月28日（令和8年4月28日）
+〇医療関係職種の安定的な養成・確保に関する検討会について（報告）
+－
+
+資料
+
+
+
+開催案内</title><link>https://www.mhlw.go.jp/stf/newpage_72925.html</link><description>第127回
+
+
+2026年4月28日（令和8年4月28日）
+〇医療関係職種の安定的な養成・確保に関する検討会について（報告）
+－
+
+資料
+
+
+
+開催案内</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_72925.html#20260428</guid><pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】回数
+開催日
+議題等
+議事録／議事要旨
+資料等
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>回数
+開催日
+議題等
+議事録／議事要旨
+資料等
+開催案内</description><guid isPermaLink="false">urn:newsitem:e1240e25bf5bccdfa450d2736681801ee719b8d2</guid></item></channel></rss>

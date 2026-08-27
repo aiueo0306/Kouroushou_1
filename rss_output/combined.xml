@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 26 Aug 2026 21:23:04 +0000</lastBuildDate><item><title>【社会保障審議会（介護給付費分科会）】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 27 Aug 2026 02:19:29 +0000</lastBuildDate><item><title>【社会保障審議会（介護給付費分科会）】回数
 開催日
 議題等
 議事録／議事要旨
@@ -30,10 +30,15 @@
 	電子処方箋の進捗状況と今後の対応
 
 －
-－
+
+資料等NEW
+8月27日
+
+
+
 
 開催案内NEW
-8月25日</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第213回
+8月25日</title><link>https://www.mhlw.go.jp/stf/newpage_75728.html</link><description>第213回
 
 
 2026年8月27日（令和8年8月27日）
@@ -44,10 +49,15 @@
 	電子処方箋の進捗状況と今後の対応
 
 －
-－
+
+資料等NEW
+8月27日
+
+
+
 
 開催案内NEW
-8月25日</description><guid isPermaLink="false">urn:newsitem:3e442e793fb3a932508bcbfbab0c0e821b938a26</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】回数
+8月25日</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_75728.html#20260827</guid><pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】回数
 開催日
 議題等
 議事録／議事要旨

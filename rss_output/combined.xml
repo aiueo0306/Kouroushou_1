@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 09 Sep 2026 00:46:42 +0000</lastBuildDate><item><title>【社会保障審議会（医療保険部会）】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 09 Sep 2026 05:26:59 +0000</lastBuildDate><item><title>【社会保障審議会（医療保険部会）】回数
 開催日
 議題等
 議事録／議事要旨
@@ -9,7 +9,33 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:af8ab4bda92465ee742899c5852ecc9c889708fa</guid></item><item><title>【社会保障審議会(医療部会)】回数
+開催案内</description><guid isPermaLink="false">urn:newsitem:af8ab4bda92465ee742899c5852ecc9c889708fa</guid></item><item><title>【社会保障審議会（医療保険部会）】【2026-09-11】第215回
+
+
+2026年9月11日（令和8年9月11日）
+
+OTC類似薬の保険給付の見直しの実施について
+医療保険制度改革について
+
+
+－
+－
+
+開催案内NEW
+9月9日</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第215回
+
+
+2026年9月11日（令和8年9月11日）
+
+OTC類似薬の保険給付の見直しの実施について
+医療保険制度改革について
+
+
+－
+－
+
+開催案内NEW
+9月9日</description><guid isPermaLink="false">urn:newsitem:524378fbb5ae760e2761fdf87637eeb578198bd4</guid><pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】回数
 開催日
 議題等
 議事録／議事要旨
@@ -39,4 +65,24 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:9f290209f3af4fc0d03a5be4050de9242cbf1d1e</guid></item></channel></rss>
+開催案内</description><guid isPermaLink="false">urn:newsitem:9f290209f3af4fc0d03a5be4050de9242cbf1d1e</guid></item><item><title>【社会保障審議会（介護給付費分科会）】【2026-09-10】第265回
+
+
+2026年9月10日（令和8年9月10日）
+１．令和９年度介護報酬改定に向けて
+・関係団体等意見交換会①
+－
+－
+
+開催案内NEW
+9月9日</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第265回
+
+
+2026年9月10日（令和8年9月10日）
+１．令和９年度介護報酬改定に向けて
+・関係団体等意見交換会①
+－
+－
+
+開催案内NEW
+9月9日</description><guid isPermaLink="false">urn:newsitem:94a546e8f18dc679f8cbd09f31bfe23b733f8af2</guid><pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate></item></channel></rss>

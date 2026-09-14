@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 14 Sep 2026 07:21:49 +0000</lastBuildDate><item><title>【社会保障審議会（医療保険部会）】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 14 Sep 2026 14:29:32 +0000</lastBuildDate><item><title>【社会保障審議会（医療保険部会）】回数
 開催日
 議題等
 議事録／議事要旨
@@ -91,7 +91,45 @@ OTC類似薬の保険給付の見直しの実施について
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:e1240e25bf5bccdfa450d2736681801ee719b8d2</guid></item><item><title>【社会保障審議会（介護給付費分科会）】回数
+開催案内</description><guid isPermaLink="false">urn:newsitem:e1240e25bf5bccdfa450d2736681801ee719b8d2</guid></item><item><title>【社会保障審議会（介護保険部会）】【2026-09-18】第136回
+
+
+2026年9月18日（令和8年9月18日）
+
+	第1号保険料の在り方
+	持続可能性の確保（給付と負担）
+	その他
+
+
+（１）介護情報基盤（報告）
+	（２）介護サービス事業者の経営情報の調査分析（報告）
+	（３）介護給付適正化に向けた取組（報告）
+	（４）介護事業者の連携強化（報告）
+	（５）その他
+
+－
+－
+
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>第136回
+
+
+2026年9月18日（令和8年9月18日）
+
+	第1号保険料の在り方
+	持続可能性の確保（給付と負担）
+	その他
+
+
+（１）介護情報基盤（報告）
+	（２）介護サービス事業者の経営情報の調査分析（報告）
+	（３）介護給付適正化に向けた取組（報告）
+	（４）介護事業者の連携強化（報告）
+	（５）その他
+
+－
+－
+
+開催案内</description><guid isPermaLink="false">urn:newsitem:f85cc71e94f09af758e2a992887976b5dee1495f</guid><pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護給付費分科会）】回数
 開催日
 議題等
 議事録／議事要旨

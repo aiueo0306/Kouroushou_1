@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 02 Nov 2026 01:56:13 +0000</lastBuildDate><item><title>【社会保障審議会（介護給付費分科会）】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 02 Nov 2026 08:34:31 +0000</lastBuildDate><item><title>【社会保障審議会（介護給付費分科会）】回数
 開催日
 議題等
 議事録／議事要旨
@@ -51,7 +51,33 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:af8ab4bda92465ee742899c5852ecc9c889708fa</guid></item><item><title>【社会保障審議会（介護保険部会）】回数
+開催案内</description><guid isPermaLink="false">urn:newsitem:af8ab4bda92465ee742899c5852ecc9c889708fa</guid></item><item><title>【社会保障審議会（医療保険部会）】【2026-11-05】第219回
+
+
+2026年11月5日（令和8年11月5日）
+
+	後期高齢者保険料について
+	先行バイオ医薬品の保険給付の在り方について
+
+
+－
+－
+
+開催案内NEW
+11月2日</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第219回
+
+
+2026年11月5日（令和8年11月5日）
+
+	後期高齢者保険料について
+	先行バイオ医薬品の保険給付の在り方について
+
+
+－
+－
+
+開催案内NEW
+11月2日</description><guid isPermaLink="false">urn:newsitem:120db3d3caf7de56638e6c31bd1b88644d0f5e2b</guid><pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】回数
 開催日
 議題等
 議事録／議事要旨

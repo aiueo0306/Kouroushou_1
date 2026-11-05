@@ -1,25 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 04 Nov 2026 23:59:56 +0000</lastBuildDate><item><title>【社会保障審議会(医療部会)】回数
-開催日
-議題等
-議事録／議事要旨
-資料等
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>回数
-開催日
-議題等
-議事録／議事要旨
-資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:937c7e1eb369bc0e79d7690f08fdfdec93526df3</guid></item><item><title>【社会保障審議会（介護保険部会）】回数
-開催日
-議題等
-議事録／議事要旨
-資料等
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>回数
-開催日
-議題等
-議事録／議事要旨
-資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:e1240e25bf5bccdfa450d2736681801ee719b8d2</guid></item><item><title>【社会保障審議会（介護給付費分科会）】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 05 Nov 2026 05:19:40 +0000</lastBuildDate><item><title>【社会保障審議会（介護給付費分科会）】回数
 開催日
 議題等
 議事録／議事要旨
@@ -29,7 +9,27 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:9f290209f3af4fc0d03a5be4050de9242cbf1d1e</guid></item><item><title>【社会保障審議会（介護給付費分科会）】【2026-11-02】第273回
+開催案内</description><guid isPermaLink="false">urn:newsitem:9f290209f3af4fc0d03a5be4050de9242cbf1d1e</guid></item><item><title>【社会保障審議会（介護給付費分科会）】【2026-11-06】第274回
+
+
+2026年11月6日（令和8年11月6日）
+１．令和９年度介護報酬改定に向けて
+（１）横断的事項
+（人口減少・サービス需要の変化に応じたサ ービス提供体制の構築、高齢者虐待の防止/介護現場の安全性の確保、リスクマネジメント、災害時等における業務継続の取組の強化等、介護現場におけるハラスメント対策）
+－
+－
+
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第274回
+
+
+2026年11月6日（令和8年11月6日）
+１．令和９年度介護報酬改定に向けて
+（１）横断的事項
+（人口減少・サービス需要の変化に応じたサ ービス提供体制の構築、高齢者虐待の防止/介護現場の安全性の確保、リスクマネジメント、災害時等における業務継続の取組の強化等、介護現場におけるハラスメント対策）
+－
+－
+
+開催案内</description><guid isPermaLink="false">urn:newsitem:b15b044935fb3fbf067df7b7e05b285ff80a1492</guid><pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護給付費分科会）】【2026-11-02】第273回
 
 
 2026年11月2日（令和8年11月2日）
@@ -81,10 +81,15 @@
 
 
 －
-－
+
+資料等NEW
+11月5日
+
+
+
 
 開催案内NEW
-11月2日</title><link>https://www.mhlw.go.jp/stf/newpage_28708.html</link><description>第219回
+11月2日</title><link>https://www.mhlw.go.jp/stf/newpage_77043.html</link><description>第219回
 
 
 2026年11月5日（令和8年11月5日）
@@ -94,7 +99,32 @@
 
 
 －
-－
+
+資料等NEW
+11月5日
+
+
+
 
 開催案内NEW
-11月2日</description><guid isPermaLink="false">urn:newsitem:120db3d3caf7de56638e6c31bd1b88644d0f5e2b</guid><pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate></item></channel></rss>
+11月2日</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_77043.html#20261105</guid><pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】回数
+開催日
+議題等
+議事録／議事要旨
+資料等
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126734.html</link><description>回数
+開催日
+議題等
+議事録／議事要旨
+資料等
+開催案内</description><guid isPermaLink="false">urn:newsitem:e1240e25bf5bccdfa450d2736681801ee719b8d2</guid></item><item><title>【社会保障審議会(医療部会)】回数
+開催日
+議題等
+議事録／議事要旨
+資料等
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>回数
+開催日
+議題等
+議事録／議事要旨
+資料等
+開催案内</description><guid isPermaLink="false">urn:newsitem:937c7e1eb369bc0e79d7690f08fdfdec93526df3</guid></item></channel></rss>

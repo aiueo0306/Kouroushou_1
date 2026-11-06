@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 06 Nov 2026 01:12:23 +0000</lastBuildDate><item><title>【社会保障審議会(医療部会)】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 06 Nov 2026 08:38:29 +0000</lastBuildDate><item><title>【社会保障審議会(医療部会)】回数
 開催日
 議題等
 議事録／議事要旨
@@ -9,7 +9,31 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:937c7e1eb369bc0e79d7690f08fdfdec93526df3</guid></item><item><title>【社会保障審議会（介護保険部会）】回数
+開催案内</description><guid isPermaLink="false">urn:newsitem:937c7e1eb369bc0e79d7690f08fdfdec93526df3</guid></item><item><title>【社会保障審議会(医療部会)】【2026-11-11】第131回
+
+
+2026年11月11日（令和8年11月11日）
+〇医師手当事業に関する今後の検討体制について
+〇基幹インフラ制度への医療分野の追加に係る検討状況について
+〇医療関係職種の安定的な養成・確保に関する検討会における議論の進捗（報告）
+〇2040 年に向けた看護職員の養成・確保の在り方に関する検討会における議論の進捗（報告）
+〇歯科医療提供体制等に関する検討会、歯科衛生士の業務のあり方等に関する検討会及び歯科技工士の業務のあり方等に関する検討会における議論の進捗（報告）
+－
+－
+
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>第131回
+
+
+2026年11月11日（令和8年11月11日）
+〇医師手当事業に関する今後の検討体制について
+〇基幹インフラ制度への医療分野の追加に係る検討状況について
+〇医療関係職種の安定的な養成・確保に関する検討会における議論の進捗（報告）
+〇2040 年に向けた看護職員の養成・確保の在り方に関する検討会における議論の進捗（報告）
+〇歯科医療提供体制等に関する検討会、歯科衛生士の業務のあり方等に関する検討会及び歯科技工士の業務のあり方等に関する検討会における議論の進捗（報告）
+－
+－
+
+開催案内</description><guid isPermaLink="false">urn:newsitem:3d73184398e169a6d2b6626e30be2f0161446f39</guid><pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】回数
 開催日
 議題等
 議事録／議事要旨
@@ -37,10 +61,15 @@
 （１）横断的事項
 （人口減少・サービス需要の変化に応じたサ ービス提供体制の構築、高齢者虐待の防止/介護現場の安全性の確保、リスクマネジメント、災害時等における業務継続の取組の強化等、介護現場におけるハラスメント対策）
 －
-－
+
+資料NEW
+11月6日
+
+
+
 
 開催案内NEW
-11月5日</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第274回
+11月5日</title><link>https://www.mhlw.go.jp/stf/newpage_76993.html</link><description>第274回
 
 
 2026年11月6日（令和8年11月6日）
@@ -48,10 +77,15 @@
 （１）横断的事項
 （人口減少・サービス需要の変化に応じたサ ービス提供体制の構築、高齢者虐待の防止/介護現場の安全性の確保、リスクマネジメント、災害時等における業務継続の取組の強化等、介護現場におけるハラスメント対策）
 －
-－
+
+資料NEW
+11月6日
+
+
+
 
 開催案内NEW
-11月5日</description><guid isPermaLink="false">urn:newsitem:61089cfbc5fc1eddd173d602dea2673d8698750e</guid><pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（医療保険部会）】回数
+11月5日</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_76993.html#20261106</guid><pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（医療保険部会）】回数
 開催日
 議題等
 議事録／議事要旨

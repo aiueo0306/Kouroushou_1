@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 19 Nov 2026 23:57:30 +0000</lastBuildDate><item><title>【社会保障審議会(医療部会)】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 20 Nov 2026 05:07:02 +0000</lastBuildDate><item><title>【社会保障審議会(医療部会)】回数
 開催日
 議題等
 議事録／議事要旨
@@ -19,7 +19,57 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:e1240e25bf5bccdfa450d2736681801ee719b8d2</guid></item><item><title>【社会保障審議会（医療保険部会）】回数
+開催案内</description><guid isPermaLink="false">urn:newsitem:e1240e25bf5bccdfa450d2736681801ee719b8d2</guid></item><item><title>【社会保障審議会（介護給付費分科会）】回数
+開催日
+議題等
+議事録／議事要旨
+資料等
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>回数
+開催日
+議題等
+議事録／議事要旨
+資料等
+開催案内</description><guid isPermaLink="false">urn:newsitem:9f290209f3af4fc0d03a5be4050de9242cbf1d1e</guid></item><item><title>【社会保障審議会（介護給付費分科会）】【2026-11-20】第276回
+
+
+2026年11月20日（令和8年11月20日）
+１．令和９年度介護報酬改定に向けて
+（１）各サービス
+（福祉用具・住宅改修）
+（２）横断的事項
+（医療・介護連携、人生の最終段階の医療・介護、口腔・栄養、一体的取組）
+２．令和８年度介護事業経営実態調査の結果について
+３．令和８年度介護従事者処遇状況等調査の結果について
+－
+
+資料NEW
+11月20日
+
+
+
+
+開催案内NEW
+11月19日</title><link>https://www.mhlw.go.jp/stf/newpage_77263.html</link><description>第276回
+
+
+2026年11月20日（令和8年11月20日）
+１．令和９年度介護報酬改定に向けて
+（１）各サービス
+（福祉用具・住宅改修）
+（２）横断的事項
+（医療・介護連携、人生の最終段階の医療・介護、口腔・栄養、一体的取組）
+２．令和８年度介護事業経営実態調査の結果について
+３．令和８年度介護従事者処遇状況等調査の結果について
+－
+
+資料NEW
+11月20日
+
+
+
+
+開催案内NEW
+11月19日</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_77263.html#20261120</guid><pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（医療保険部会）】回数
 開催日
 議題等
 議事録／議事要旨
@@ -65,110 +115,4 @@
 
 
 開催案内NEW
-11月13日</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_77350.html#20261117</guid><pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護給付費分科会）】回数
-開催日
-議題等
-議事録／議事要旨
-資料等
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>回数
-開催日
-議題等
-議事録／議事要旨
-資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:9f290209f3af4fc0d03a5be4050de9242cbf1d1e</guid></item><item><title>【社会保障審議会（介護給付費分科会）】【2026-11-20】第276回
-
-
-2026年11月20日（令和8年11月20日）
-１．令和９年度介護報酬改定に向けて
-（１）各サービス
-（福祉用具・住宅改修）
-（２）横断的事項
-（医療・介護連携、人生の最終段階の医療・介護、口腔・栄養、一体的取組）
-２．令和８年度介護事業経営実態調査の結果について
-３．令和８年度介護従事者処遇状況等調査の結果について
-－
-－
-
-開催案内NEW
-11月19日</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第276回
-
-
-2026年11月20日（令和8年11月20日）
-１．令和９年度介護報酬改定に向けて
-（１）各サービス
-（福祉用具・住宅改修）
-（２）横断的事項
-（医療・介護連携、人生の最終段階の医療・介護、口腔・栄養、一体的取組）
-２．令和８年度介護事業経営実態調査の結果について
-３．令和８年度介護従事者処遇状況等調査の結果について
-－
-－
-
-開催案内NEW
-11月19日</description><guid isPermaLink="false">urn:newsitem:d76654e74e397e0c364884c8d764b2ca7ccb128a</guid><pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護給付費分科会）】【2026-11-16】第275回
-
-
-2026年11月16日（令和8年11月16日）
-１．令和９年度介護報酬改定に向けて
-（１）横断的事項
-（介護人材確保に向けた処遇改善等、介護現場における生産性向上等の推進）
-－
-
-資料NEW
-11月16日
-
-
-
-
-開催案内NEW
-11月13日</title><link>https://www.mhlw.go.jp/stf/newpage_77277.html</link><description>第275回
-
-
-2026年11月16日（令和8年11月16日）
-１．令和９年度介護報酬改定に向けて
-（１）横断的事項
-（介護人材確保に向けた処遇改善等、介護現場における生産性向上等の推進）
-－
-
-資料NEW
-11月16日
-
-
-
-
-開催案内NEW
-11月13日</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_77277.html#20261116</guid><pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護給付費分科会）】【2026-11-16】第45回
-
-
-2026年11月16日（令和8年11月16日）
-介護事業経営調査委員会
-１．令和８年度介護事業経営実態調査の結果について
-２．令和８年度介護従事者処遇状況等調査の結果について
-３．その他
-－
-
-資料NEW
-11月16日
-
-
-
-
-開催案内NEW
-11月13日</title><link>https://www.mhlw.go.jp/stf/newpage_77253.html</link><description>第45回
-
-
-2026年11月16日（令和8年11月16日）
-介護事業経営調査委員会
-１．令和８年度介護事業経営実態調査の結果について
-２．令和８年度介護従事者処遇状況等調査の結果について
-３．その他
-－
-
-資料NEW
-11月16日
-
-
-
-
-開催案内NEW
-11月13日</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_77253.html#20261116</guid><pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate></item></channel></rss>
+11月13日</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_77350.html#20261117</guid><pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate></item></channel></rss>

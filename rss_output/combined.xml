@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 23 Nov 2026 15:28:51 +0000</lastBuildDate><item><title>【社会保障審議会(医療部会)】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 24 Nov 2026 02:39:03 +0000</lastBuildDate><item><title>【社会保障審議会(医療部会)】回数
 開催日
 議題等
 議事録／議事要旨
@@ -65,44 +65,4 @@
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:9f290209f3af4fc0d03a5be4050de9242cbf1d1e</guid></item><item><title>【社会保障審議会（介護給付費分科会）】【2026-11-20】第276回
-
-
-2026年11月20日（令和8年11月20日）
-１．令和９年度介護報酬改定に向けて
-（１）各サービス
-（福祉用具・住宅改修）
-（２）横断的事項
-（医療・介護連携、人生の最終段階の医療・介護、口腔・栄養、一体的取組）
-２．令和８年度介護事業経営実態調査の結果について
-３．令和８年度介護従事者処遇状況等調査の結果について
-－
-
-資料NEW
-11月20日
-
-
-
-
-開催案内NEW
-11月19日</title><link>https://www.mhlw.go.jp/stf/newpage_77263.html</link><description>第276回
-
-
-2026年11月20日（令和8年11月20日）
-１．令和９年度介護報酬改定に向けて
-（１）各サービス
-（福祉用具・住宅改修）
-（２）横断的事項
-（医療・介護連携、人生の最終段階の医療・介護、口腔・栄養、一体的取組）
-２．令和８年度介護事業経営実態調査の結果について
-３．令和８年度介護従事者処遇状況等調査の結果について
-－
-
-資料NEW
-11月20日
-
-
-
-
-開催案内NEW
-11月19日</description><guid isPermaLink="false">https://www.mhlw.go.jp/stf/newpage_77263.html#20261120</guid><pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate></item></channel></rss>
+開催案内</description><guid isPermaLink="false">urn:newsitem:9f290209f3af4fc0d03a5be4050de9242cbf1d1e</guid></item></channel></rss>

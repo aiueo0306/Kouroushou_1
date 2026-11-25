@@ -1,15 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 25 Nov 2026 05:07:01 +0000</lastBuildDate><item><title>【社会保障審議会(医療部会)】回数
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>製薬会社RSS統合</title><link>https://example.com/rss_output/combined.xml</link><description>複数フィードを統合したマスターRSS</description><atom:link href="https://example.com/rss_output/combined.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 25 Nov 2026 16:17:40 +0000</lastBuildDate><item><title>【社会保障審議会（介護給付費分科会）】回数
 開催日
 議題等
 議事録／議事要旨
 資料等
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>回数
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>回数
 開催日
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:937c7e1eb369bc0e79d7690f08fdfdec93526df3</guid></item><item><title>【社会保障審議会（介護保険部会）】回数
+開催案内</description><guid isPermaLink="false">urn:newsitem:9f290209f3af4fc0d03a5be4050de9242cbf1d1e</guid></item><item><title>【社会保障審議会（介護給付費分科会）】【2026-11-26】第277回
+
+
+2026年11月26日（令和8年11月26日）
+１．令和９年度介護報酬改定に向けて
+（１）横断的事項
+（認知症への対応力強化、科学的介護情報システム（LIFE）、住まいの形態に合わせたサービス提供に係る報酬の在り方、その他（医師の常勤要件、オンライン診療、利用者数等に係る「前年度の平均値」の考え方等））
+－
+－
+
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第277回
+
+
+2026年11月26日（令和8年11月26日）
+１．令和９年度介護報酬改定に向けて
+（１）横断的事項
+（認知症への対応力強化、科学的介護情報システム（LIFE）、住まいの形態に合わせたサービス提供に係る報酬の在り方、その他（医師の常勤要件、オンライン診療、利用者数等に係る「前年度の平均値」の考え方等））
+－
+－
+
+開催案内</description><guid isPermaLink="false">urn:newsitem:6be3db686ebc781f8af80b04786207cc7108aece</guid><pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護保険部会）】回数
 開催日
 議題等
 議事録／議事要旨
@@ -83,34 +103,14 @@
 －
 
 開催案内NEW
-11月24日</description><guid isPermaLink="false">urn:newsitem:58f677d48b17d686a519447593ae27fcd46bd973</guid><pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会（介護給付費分科会）】回数
+11月24日</description><guid isPermaLink="false">urn:newsitem:58f677d48b17d686a519447593ae27fcd46bd973</guid><pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate></item><item><title>【社会保障審議会(医療部会)】回数
 開催日
 議題等
 議事録／議事要旨
 資料等
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>回数
+開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126719.html</link><description>回数
 開催日
 議題等
 議事録／議事要旨
 資料等
-開催案内</description><guid isPermaLink="false">urn:newsitem:9f290209f3af4fc0d03a5be4050de9242cbf1d1e</guid></item><item><title>【社会保障審議会（介護給付費分科会）】【2026-11-26】第277回
-
-
-2026年11月26日（令和8年11月26日）
-１．令和９年度介護報酬改定に向けて
-（１）横断的事項
-（認知症への対応力強化、科学的介護情報システム（LIFE）、住まいの形態に合わせたサービス提供に係る報酬の在り方、その他（医師の常勤要件、オンライン診療、利用者数等に係る「前年度の平均値」の考え方等））
-－
-－
-
-開催案内</title><link>https://www.mhlw.go.jp/stf/shingi/shingi-hosho_126698_00022.html</link><description>第277回
-
-
-2026年11月26日（令和8年11月26日）
-１．令和９年度介護報酬改定に向けて
-（１）横断的事項
-（認知症への対応力強化、科学的介護情報システム（LIFE）、住まいの形態に合わせたサービス提供に係る報酬の在り方、その他（医師の常勤要件、オンライン診療、利用者数等に係る「前年度の平均値」の考え方等））
-－
-－
-
-開催案内</description><guid isPermaLink="false">urn:newsitem:6be3db686ebc781f8af80b04786207cc7108aece</guid><pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate></item></channel></rss>
+開催案内</description><guid isPermaLink="false">urn:newsitem:937c7e1eb369bc0e79d7690f08fdfdec93526df3</guid></item></channel></rss>
